@@ -5,7 +5,7 @@
 ;; Authors: Yi Wang
 ;; Keywords: literate programming, reproducible research
 ;; Homepage: https://github.com/tririver/wy-els/blob/master/ob-mathematica.el
-;; Distributed under the GNU GPL v3
+;; Distributed under the GNU GPL v3 or later
 
 ;; Org-Babel support for evaluating Mathematica source code.
 
